@@ -1,0 +1,803 @@
+[
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3d89d7fe0b92724adcce75991f1c7ef3.jpeg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/5e6f96ac-352f-2522-caaa-d7e41f4dc601.webp",
+        "img_url_color": "#B0B1BE",
+        "action": {
+            "type": "product",
+            "path": "10000123",
+            "log_code": "3111309wapactivitylist_one_type14001004#t=product&act=other&page=activity&page_id=11309&bid=3500575.1&pid=10000123"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000123",
+        "product_name": "小米MIX 3",
+        "product_brief": "DxO百分相机，四曲面陶瓷机身",
+        "product_price": "2599",
+        "product_org_price": "3599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/905c13a84d8b70c9b9f4e3dee10a9515.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/905c13a84d8b70c9b9f4e3dee10a9515.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000131",
+            "log_code": "3111309wapactivitylist_two_type13001006#t=product&act=other&page=activity&page_id=11309&bid=3500577.1&pid=10000131"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000131",
+        "product_name": "Redmi Note 7",
+        "product_brief": "4800万拍照 长续航",
+        "product_price": "1099",
+        "product_org_price": "1399",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/905c13a84d8b70c9b9f4e3dee10a9515.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/905c13a84d8b70c9b9f4e3dee10a9515.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "9455",
+            "log_code": "3111309wapactivitylist_two_type13002006#t=product&act=other&page=activity&page_id=11309&bid=3500577.2&pid=9455"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "9455",
+        "product_name": "Redmi Note 7 Pro",
+        "product_brief": "索尼4800万超清拍照 ",
+        "product_price": "1399",
+        "product_org_price": "1599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc1255fd3e70b6cdd6409627ca59d3f7.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc1255fd3e70b6cdd6409627ca59d3f7.jpg",
+        "img_url_color": "#919AB9",
+        "action": {
+            "type": "product",
+            "path": "10000151",
+            "log_code": "3111309wapactivitylist_two_type13001008#t=product&act=other&page=activity&page_id=11309&bid=3500579.1&pid=10000151"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000151",
+        "product_name": "Redmi K20 Pro ",
+        "product_brief": "骁龙855， 弹出全面屏",
+        "product_price": "2299",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/224d9a0170f1b579eb60dc2143257a8a.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/734e5838-b80a-a49f-ea12-5ef05eb513a5.webp",
+        "img_url_color": "#B9B2CF",
+        "action": {
+            "type": "product",
+            "path": "10000164",
+            "log_code": "3111309wapactivitylist_two_type13002008#t=product&act=other&page=activity&page_id=11309&bid=3500579.2&pid=10000164"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000164",
+        "product_name": "小米CC9e",
+        "product_brief": "3200万自拍，4800万三摄",
+        "product_price": "1199",
+        "product_org_price": "1299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5e8faabd72ee160e245447357f1708e.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5e8faabd72ee160e245447357f1708e.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000138",
+            "log_code": "3111309wapactivitylist_two_type13001010#t=product&act=other&page=activity&page_id=11309&bid=3500581.1&pid=10000138"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000138",
+        "product_name": "Redmi 7 ",
+        "product_brief": "4000mAh超长续航",
+        "product_price": "699",
+        "product_org_price": "799",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/b71cb9173927fb0e9c82e1b443d7d1d3.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/22f203ab-44f4-6b89-06b4-e01e6f00c7f8.webp",
+        "img_url_color": "#AFB4C1",
+        "action": {
+            "type": "product",
+            "path": "10000152",
+            "log_code": "3111309wapactivitylist_two_type13002010#t=product&act=other&page=activity&page_id=11309&bid=3500581.2&pid=10000152"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000152",
+        "product_name": "Redmi 7A",
+        "product_brief": "小巧大电量 持久流畅",
+        "product_price": "579",
+        "product_org_price": "599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/baf1995a35e823c99e7c8ffd287d64ee.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/baf1995a35e823c99e7c8ffd287d64ee.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000134",
+            "log_code": "3111309wapactivitylist_two_type13001012#t=product&act=other&page=activity&page_id=11309&bid=3500583.1&pid=10000134"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000134",
+        "product_name": "小米9",
+        "product_brief": "全息幻彩机身，骁龙855",
+        "product_price": "2799",
+        "product_org_price": "3299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/6aa2a59692332ed3aeb4c5c402e74532.png",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/7d583942-b8f9-951a-1f27-c836b86c1473.webp",
+        "img_url_color": "#D6E1EB",
+        "action": {
+            "type": "product",
+            "path": "10000163",
+            "log_code": "3111309wapactivitylist_two_type13002012#t=product&act=other&page=activity&page_id=11309&bid=3500583.2&pid=10000163"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000163",
+        "product_name": "小米CC9",
+        "product_brief": "3200万自拍，4800万三摄",
+        "product_price": "1799",
+        "product_org_price": "1799",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f129ecf8027d4af7bd32690eba6e10a3.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/b7aa0b1e-90bb-725d-fbd1-1bb26a051606.webp",
+        "img_url_color": "#B0A1A8",
+        "action": {
+            "type": "product",
+            "path": "10000085",
+            "log_code": "3111309wapactivitylist_two_type13001014#t=product&act=other&page=activity&page_id=11309&bid=3500585.1&pid=10000085"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000085",
+        "product_name": "小米MIX 2S",
+        "product_brief": "四曲面陶瓷机身，骁龙845",
+        "product_price": "1799",
+        "product_org_price": "2999",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9dfc8cb973124fddf32067b76dfb3e8f.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9dfc8cb973124fddf32067b76dfb3e8f.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10140",
+            "log_code": "3111309wapactivitylist_two_type13002014#t=product&act=other&page=activity&page_id=11309&bid=3500585.2&pid=10140"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10140",
+        "product_name": "小米CC9 美图定制版",
+        "product_brief": "8GB+256GB，100%美图相机",
+        "product_price": "2599",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e0fb727a03dab6f9faecce0bd6be0d36.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/86143982-11ca-5249-e90c-eecfdb9b98a0.webp",
+        "img_url_color": "#B1B5D3",
+        "action": {
+            "type": "product",
+            "path": "10000150",
+            "log_code": "3111309wapactivitylist_two_type13001016#t=product&act=other&page=activity&page_id=11309&bid=3500587.1&pid=10000150"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000150",
+        "product_name": "Redmi K20",
+        "product_brief": "弹出全面屏，4800万三摄",
+        "product_price": "1799",
+        "product_org_price": "2099",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c423f95037aba13b7c7fa5c583fe3dda.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c423f95037aba13b7c7fa5c583fe3dda.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000111",
+            "log_code": "3111309wapactivitylist_two_type13002016#t=product&act=other&page=activity&page_id=11309&bid=3500587.2&pid=10000111"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000111",
+        "product_name": "小米Max 3",
+        "product_brief": "超大屏，超大电量",
+        "product_price": "1299",
+        "product_org_price": "1699",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1482ad41b3c2b27252a336e90173e9e.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/111cd2ee-0e6a-b286-d713-30a7fce817a3.webp",
+        "img_url_color": "#969899",
+        "action": {
+            "type": "product",
+            "path": "10000139",
+            "log_code": "3111309wapactivitylist_two_type13001018#t=product&act=other&page=activity&page_id=11309&bid=3500589.1&pid=10000139"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000139",
+        "product_name": "黑鲨游戏手机 2",
+        "product_brief": "骁龙855，立体触控",
+        "product_price": "2699",
+        "product_org_price": "3499",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a20b33a5ee800e73a65e2f0e151b4a73.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a20b33a5ee800e73a65e2f0e151b4a73.jpg",
+        "img_url_color": "#9BAABC",
+        "action": {
+            "type": "product",
+            "path": "10000135",
+            "log_code": "3111309wapactivitylist_two_type13002018#t=product&act=other&page=activity&page_id=11309&bid=3500589.2&pid=10000135"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000135",
+        "product_name": "小米9 SE",
+        "product_brief": "索尼4800万三摄，骁龙712",
+        "product_price": "1599",
+        "product_org_price": "1999",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a9e3c6b607eb337e5a0d1330563e3eff.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a9e3c6b607eb337e5a0d1330563e3eff.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000110",
+            "log_code": "3111309wapactivitylist_two_type13001020#t=product&act=other&page=activity&page_id=11309&bid=3500591.1&pid=10000110"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000110",
+        "product_name": "红米6A",
+        "product_brief": "好看耐用/轻巧省心",
+        "product_price": "649",
+        "product_org_price": "699",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e97f72b2cb359a16b22eadb05a86b346.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/01669a1a-aa77-77bd-5425-2709a7451858.webp",
+        "img_url_color": "#A5B0B2",
+        "action": {
+            "type": "product",
+            "path": "10000108",
+            "log_code": "3111309wapactivitylist_two_type13002020#t=product&act=other&page=activity&page_id=11309&bid=3500591.2&pid=10000108"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000108",
+        "product_name": "小米平板4",
+        "product_brief": "大屏、长续航、超薄电脑",
+        "product_price": "1399",
+        "product_org_price": "1399",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "w": 720,
+        "h": 152,
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/487b2372fd3605f86ffb754c9729c02c.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/2e509b4e-0ace-9581-83c6-7d0e91ca023f.webp",
+        "img_url_color": "#E0DFFA",
+        "action": {
+            "type": "none",
+            "log_code": "3111309wapactivitycells_auto_fill001023#t=normal&act=other&page=activity&page_id=11309&bid=3500594.1"
+        },
+        "path_type": "image",
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/224d9a0170f1b579eb60dc2143257a8a.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/734e5838-b80a-a49f-ea12-5ef05eb513a5.webp",
+        "img_url_color": "#B9B2CF",
+        "action": {
+            "type": "product",
+            "path": "10000164",
+            "log_code": "3111309wapactivitylist_two_type13001024#t=product&act=other&page=activity&page_id=11309&bid=3500595.1&pid=10000164"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000164",
+        "product_name": "小米CC9e",
+        "product_brief": "3200万自拍，4800万三摄",
+        "product_price": "1199",
+        "product_org_price": "1299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc1255fd3e70b6cdd6409627ca59d3f7.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/dc1255fd3e70b6cdd6409627ca59d3f7.jpg",
+        "img_url_color": "#919AB9",
+        "action": {
+            "type": "product",
+            "path": "10000151",
+            "log_code": "3111309wapactivitylist_two_type13002024#t=product&act=other&page=activity&page_id=11309&bid=3500595.2&pid=10000151"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000151",
+        "product_name": "Redmi K20 Pro ",
+        "product_brief": "骁龙855， 弹出全面屏",
+        "product_price": "2299",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/6aa2a59692332ed3aeb4c5c402e74532.png",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/7d583942-b8f9-951a-1f27-c836b86c1473.webp",
+        "img_url_color": "#D6E1EB",
+        "action": {
+            "type": "product",
+            "path": "10000163",
+            "log_code": "3111309wapactivitylist_two_type13001026#t=product&act=other&page=activity&page_id=11309&bid=3500597.1&pid=10000163"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000163",
+        "product_name": "小米CC9",
+        "product_brief": "3200万自拍，4800万三摄",
+        "product_price": "1799",
+        "product_org_price": "1799",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9dfc8cb973124fddf32067b76dfb3e8f.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/9dfc8cb973124fddf32067b76dfb3e8f.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10140",
+            "log_code": "3111309wapactivitylist_two_type13002026#t=product&act=other&page=activity&page_id=11309&bid=3500597.2&pid=10140"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10140",
+        "product_name": "小米CC9 美图定制版",
+        "product_brief": "8GB+256GB，100%美图相机",
+        "product_price": "2599",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3bc4298874635127f8567d1ed96320e5.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/4848e768-dd4e-a61b-0c80-e90f8d5e469e.webp",
+        "img_url_color": "#BEADC0",
+        "action": {
+            "type": "product",
+            "path": "10000131",
+            "log_code": "3111309wapactivitylist_two_type13001028#t=product&act=other&page=activity&page_id=11309&bid=3500599.1&pid=10000131"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000131",
+        "product_name": "Redmi Note 7",
+        "product_brief": "4800万拍照 长续航",
+        "product_price": "1099",
+        "product_org_price": "1399",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/baf1995a35e823c99e7c8ffd287d64ee.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/baf1995a35e823c99e7c8ffd287d64ee.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000134",
+            "log_code": "3111309wapactivitylist_two_type13002028#t=product&act=other&page=activity&page_id=11309&bid=3500599.2&pid=10000134"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000134",
+        "product_name": "小米9",
+        "product_brief": "全息幻彩机身，骁龙855",
+        "product_price": "2799",
+        "product_org_price": "3299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e0fb727a03dab6f9faecce0bd6be0d36.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/86143982-11ca-5249-e90c-eecfdb9b98a0.webp",
+        "img_url_color": "#B1B5D3",
+        "action": {
+            "type": "product",
+            "path": "10000150",
+            "log_code": "3111309wapactivitylist_two_type13001030#t=product&act=other&page=activity&page_id=11309&bid=3500601.1&pid=10000150"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000150",
+        "product_name": "Redmi K20",
+        "product_brief": "弹出全面屏，4800万三摄",
+        "product_price": "1799",
+        "product_org_price": "2099",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f60a62681716e39153315efce0ef308a.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f60a62681716e39153315efce0ef308a.jpg?f=webp",
+        "img_url_color": "#F5F5F5",
+        "action": {
+            "type": "product",
+            "path": "10000135",
+            "log_code": "3111309wapactivitylist_two_type13002030#t=product&act=other&page=activity&page_id=11309&bid=3500601.2&pid=10000135"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000135",
+        "product_name": "小米9 SE",
+        "product_brief": "索尼4800万三摄，骁龙712",
+        "product_price": "1599",
+        "product_org_price": "1999",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "w": 720,
+        "h": 152,
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/99df81548791259acea1f98dde695afc.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/19c97014-eae4-af9f-0056-0b5e840574ca.webp",
+        "img_url_color": "#E2E1FA",
+        "action": {
+            "type": "none",
+            "log_code": "3111309wapactivitycells_auto_fill001031#t=normal&act=other&page=activity&page_id=11309&bid=3500602.1"
+        },
+        "path_type": "image",
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/02ca0d94fa04eac7b9d9fca5a83c3a4c.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/0aff3e03-ac1e-b888-90da-8456b0a6de49.webp",
+        "img_url_color": "#1D2135",
+        "action": {
+            "type": "product",
+            "path": "10000151",
+            "log_code": "3111309wapactivitylist_one_type14001032#t=product&act=other&page=activity&page_id=11309&bid=3500603.1&pid=10000151"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000151",
+        "product_name": "Redmi K20 Pro ",
+        "product_brief": "骁龙855处理器, 弹出式极界全面屏",
+        "product_price": "2299",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c4d06a2ec013199886f159c72f41c6f8.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/fb85df14-31c6-3584-aeff-4fe61b992e5a.webp",
+        "img_url_color": "#9DA8B6",
+        "action": {
+            "type": "product",
+            "path": "10000134",
+            "log_code": "3111309wapactivitylist_two_type13001034#t=product&act=other&page=activity&page_id=11309&bid=3500605.1&pid=10000134"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000134",
+        "product_name": "小米9",
+        "product_brief": "全息幻彩机身，骁龙855",
+        "product_price": "2799",
+        "product_org_price": "3299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1482ad41b3c2b27252a336e90173e9e.jpg?w=516&h=420",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/111cd2ee-0e6a-b286-d713-30a7fce817a3.webp?w=516&h=420",
+        "img_url_color": "#969899",
+        "action": {
+            "type": "product",
+            "path": "10000139",
+            "log_code": "3111309wapactivitylist_two_type13002034#t=product&act=other&page=activity&page_id=11309&bid=3500605.2&pid=10000139"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000139",
+        "product_name": "黑鲨游戏手机 2",
+        "product_brief": "骁龙855，立体触控",
+        "product_price": "2699",
+        "product_org_price": "3499",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "w": 720,
+        "h": 152,
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5f65a0ec32630a404496241911039f46.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/933a15aa-3cd5-6c87-8b87-806791afe06b.webp",
+        "img_url_color": "#E2E1FA",
+        "action": {
+            "type": "none",
+            "log_code": "3111309wapactivitycells_auto_fill001035#t=normal&act=other&page=activity&page_id=11309&bid=3500606.1"
+        },
+        "path_type": "image",
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/d93d90808aeaf9917505fbdff579103b.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/d8aa2e38-dc2a-4993-91e2-5edef8185725.webp",
+        "img_url_color": "#B1A1A8",
+        "action": {
+            "type": "product",
+            "path": "10000085",
+            "log_code": "3111309wapactivitylist_two_type13001036#t=product&act=other&page=activity&page_id=11309&bid=3500607.1&pid=10000085"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000085",
+        "product_name": "小米MIX 2S",
+        "product_brief": "四曲面陶瓷机身，骁龙845",
+        "product_price": "1799",
+        "product_org_price": "2999",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/3ce6f4651f96da373aeaabd272acebfd.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/b7ad9e53-bc1e-dcc9-3175-3221cc043d64.webp",
+        "img_url_color": "#9FA0AE",
+        "action": {
+            "type": "product",
+            "path": "10000123",
+            "log_code": "3111309wapactivitylist_two_type13002036#t=product&act=other&page=activity&page_id=11309&bid=3500607.2&pid=10000123"
+        },
+        "btn_txt": "立即购买",
+        "product_id": "10000123",
+        "product_name": "小米MIX 3",
+        "product_brief": "DxO百分拍照手机",
+        "product_price": "2599",
+        "product_org_price": "3599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "w": 720,
+        "h": 152,
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5be7d4eec5fd8c9927adff16b6327a93.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/f2913df4-93f5-bf89-c579-6727e20bc778.webp",
+        "img_url_color": "#E2E2FB",
+        "action": {
+            "type": "none",
+            "log_code": "3111309wapactivitycells_auto_fill001037#t=normal&act=other&page=activity&page_id=11309&bid=3500608.1"
+        },
+        "path_type": "image",
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//i8.mifile.cn/b2c-mimall-media/b9f864a457dc01d563f9b0c551392b31.jpg?w=1044&h=654",
+        "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b9f864a457dc01d563f9b0c551392b31.jpg?w=1044&h=654",
+        "img_url_color": "#FFFFFF",
+        "action": {
+            "type": "product",
+            "path": "10000108",
+            "log_code": "3111309wapactivitylist_one_type14001038#t=product&act=other&page=activity&page_id=11309&bid=3500609.1&pid=10000108"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000108",
+        "product_name": "小米平板4  8 / 10.1 英寸",
+        "product_brief": "大屏幕，长续航，追剧更尽兴",
+        "product_price": "1399",
+        "product_org_price": "1399",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "w": 720,
+        "h": 152,
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/46c4caa237fa0a506d760b30b24d0a06.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/28004a75-d0d6-cd62-ba9a-6dcf7163c99a.webp",
+        "img_url_color": "#E3E2FB",
+        "action": {
+            "type": "none",
+            "log_code": "3111309wapactivitycells_auto_fill001041#t=normal&act=other&page=activity&page_id=11309&bid=3500612.1"
+        },
+        "path_type": "image",
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/68cf56e8b49f9b2d391a8d0548f3a842.jpg?w=1044&h=654",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/0601268e-253e-663d-4fe9-1750b5c4da56.webp?w=1044&h=654",
+        "img_url_color": "#BBB4B1",
+        "action": {
+            "type": "product",
+            "path": "10140",
+            "log_code": "3111309wapactivitylist_one_type14001042#t=product&act=other&page=activity&page_id=11309&bid=3500613.1&pid=10140"
+        },
+        "product_id": "10140",
+        "product_name": "小米CC9 8GB+256GB 美图定制版",
+        "product_brief": "100%美图相机，梦幻仙女色",
+        "product_price": "2599",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/6aa2a59692332ed3aeb4c5c402e74532.png",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/7d583942-b8f9-951a-1f27-c836b86c1473.webp",
+        "img_url_color": "#D6E1EB",
+        "action": {
+            "type": "product",
+            "path": "10000163",
+            "log_code": "3111309wapactivitylist_two_type13001044#t=product&act=other&page=activity&page_id=11309&bid=3500615.1&pid=10000163"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000163",
+        "product_name": "小米CC9",
+        "product_brief": "3200万自拍，4800万三摄",
+        "product_price": "1799",
+        "product_org_price": "1799",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/224d9a0170f1b579eb60dc2143257a8a.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/734e5838-b80a-a49f-ea12-5ef05eb513a5.webp",
+        "img_url_color": "#B9B2CF",
+        "action": {
+            "type": "product",
+            "path": "10000164",
+            "log_code": "3111309wapactivitylist_two_type13002044#t=product&act=other&page=activity&page_id=11309&bid=3500615.2&pid=10000164"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000164",
+        "product_name": "小米CC9e",
+        "product_brief": "3200万自拍，4800万三摄",
+        "product_price": "1199",
+        "product_org_price": "1299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f2832c3a0b8c7158809b69a2ca5a5b1c.jpg",
+        "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f2832c3a0b8c7158809b69a2ca5a5b1c.jpg",
+        "img_url_color": "#AA8E95",
+        "action": {
+            "type": "product",
+            "path": "10000151",
+            "log_code": "3111309wapactivitylist_two_type13001046#t=product&act=other&page=activity&page_id=11309&bid=3500617.1&pid=10000151"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000151",
+        "product_name": "Redmi K20 Pro ",
+        "product_brief": "骁龙855， 弹出全面屏",
+        "product_price": "2299",
+        "product_org_price": "2599",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e0fb727a03dab6f9faecce0bd6be0d36.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/86143982-11ca-5249-e90c-eecfdb9b98a0.webp",
+        "img_url_color": "#B1B5D3",
+        "action": {
+            "type": "product",
+            "path": "10000150",
+            "log_code": "3111309wapactivitylist_two_type13002046#t=product&act=other&page=activity&page_id=11309&bid=3500617.2&pid=10000150"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000150",
+        "product_name": "Redmi K20",
+        "product_brief": "弹出全面屏，4800万三摄",
+        "product_price": "1799",
+        "product_org_price": "2099",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }],
+    [{
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c4d06a2ec013199886f159c72f41c6f8.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/fb85df14-31c6-3584-aeff-4fe61b992e5a.webp",
+        "img_url_color": "#9DA8B6",
+        "action": {
+            "type": "product",
+            "path": "10000134",
+            "log_code": "3111309wapactivitylist_two_type13001048#t=product&act=other&page=activity&page_id=11309&bid=3500619.1&pid=10000134"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000134",
+        "product_name": "小米9",
+        "product_brief": "全息幻彩机身，骁龙855",
+        "product_price": "2799",
+        "product_org_price": "3299",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }, {
+        "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c93d57e1d9fba1651b2f0c6b0c6826b9.jpg",
+        "img_url_webp": "//i8.mifile.cn/v1/a1/9c8e3886-5903-2449-eccc-542ea1d8db79.webp",
+        "img_url_color": "#90A0B5",
+        "action": {
+            "type": "product",
+            "path": "10000135",
+            "log_code": "3111309wapactivitylist_two_type13002048#t=product&act=other&page=activity&page_id=11309&bid=3500619.2&pid=10000135"
+        },
+        "btn_txt": "立即购买",
+        "show_price_qi": true,
+        "product_id": "10000135",
+        "product_name": "小米9 SE",
+        "product_brief": "索尼4800万三摄，骁龙712",
+        "product_price": "1599",
+        "product_org_price": "1999",
+        "product_rebate": {},
+        "margin_left": 0,
+        "margin_right": 0
+    }]
+]
