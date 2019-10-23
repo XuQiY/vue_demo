@@ -65,7 +65,8 @@ export default {
 		   case '/shopcar': this.barTitle="购物车";break
 		   case '/home/goods': this.barTitle="小米商城";break
 		   case '/home/order': this.barTitle="点餐系统";break
-		   case '/home/news': this.barTitle="新闻资讯";break
+       case '/home/news': this.barTitle="新闻资讯";break
+        case '/home/imgwall': this.barTitle="图片墙";break
 
 	   }
 	   console.log(newValue)

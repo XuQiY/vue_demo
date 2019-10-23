@@ -26,7 +26,7 @@
         </routerLink>
       </li>
       <li class="mui-table-view-cell mui-media mui-col-xs-4 mui-col-sm-3">
-        <routerLink to="#">
+        <routerLink to="/home/imgwall">
           <img src="/src/images/menu4.png" />
           <div class="mui-media-body">图片墙</div>
         </routerLink>
@@ -44,6 +44,7 @@
         </routerLink>
       </li>
     </ul>
+    <router-view></router-view>
   </div>
 </template>
 

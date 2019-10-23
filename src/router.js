@@ -8,13 +8,17 @@ import newsinfo from './component/news/Newsinfo.vue'
 import order from './component/order/order.vue'
 import goods from './component/goods/Goods.vue'
 import goodsinfo from './component/goods/GoodsInfo.vue'
+import imgwall from './component/image_wall/iamge_wall.vue'
 // 3. 创建路由对象
 var router = new VueRouter({
     routes: [{
             path: '/',
             redirect: '/home'
         },
-        { path: '/home', component: home },
+        {
+            path: '/home',
+            component: home,
+        },
         {
             path: '/vip',
             component: vip,
@@ -50,6 +54,10 @@ var router = new VueRouter({
         {
             path: '/goods/goodsinfo/:id',
             component: goodsinfo
+        },
+        {
+            path: '/home/imgwall',
+            component: imgwall
         }
     ],
     linkActiveClass: 'mui-active'

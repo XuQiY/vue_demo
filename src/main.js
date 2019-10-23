@@ -6,9 +6,10 @@ import {
     Header,
     Swipe,
     SwipeItem,
-    Lazyload
+    Lazyload,
 
 } from 'mint-ui';
+
 import './lib/mui/css/icons-extra.css'
 import './lib/mui/css/mui.min.css'
 import router from './router.js'
@@ -45,6 +46,7 @@ Vue.use(Resourece)
 Vue.http.options.emulateJSON = true;
 
 Vue.use(Lazyload);
+
 Vue.component(Header.name, Header);
 Vue.component(Swipe.name, Swipe);
 Vue.component(SwipeItem.name, SwipeItem);
